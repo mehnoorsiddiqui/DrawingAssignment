@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\OOPLAB\OOPLAB\bin\Debug\OOPLAB.exe.config
+C:\Users\User\source\repos\OOPLAB\OOPLAB\bin\Debug\OOPLAB.exe
+C:\Users\User\source\repos\OOPLAB\OOPLAB\bin\Debug\OOPLAB.pdb
+C:\Users\User\source\repos\OOPLAB\OOPLAB\obj\Debug\OOPLAB.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOPLAB\OOPLAB\obj\Debug\OOPLAB.Form1.resources
+C:\Users\User\source\repos\OOPLAB\OOPLAB\obj\Debug\OOPLAB.Properties.Resources.resources
+C:\Users\User\source\repos\OOPLAB\OOPLAB\obj\Debug\OOPLAB.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OOPLAB\OOPLAB\obj\Debug\OOPLAB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOPLAB\OOPLAB\obj\Debug\OOPLAB.exe
+C:\Users\User\source\repos\OOPLAB\OOPLAB\obj\Debug\OOPLAB.pdb
